@@ -11,3 +11,5 @@
 - `git comit` : will take whatever you added and to the staging area to the 
 final
    - this will prompt you to add short message about changes
+- `git commit - m "message" ` : will allow you to wite a commit message in a 
+single line

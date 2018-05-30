@@ -4,6 +4,11 @@ author: "Armi Mosavian"
 date: "5/30/2018"
 output: html_document
 ---
+```{r}
+library(ggplot2)
+
+ggplot(mpg) + geom_point(aes(x = displ, y= hwy))
+```
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)

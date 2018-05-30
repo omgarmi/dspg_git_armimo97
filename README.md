@@ -7,3 +7,7 @@
 - nano + file name  : this goes to the text file created 
 - CD git : go into folder 
 - git commit : adds final 
+- `git add` : will add a file to the staging area
+- `git comit` : will take whatever you added and to the staging area to the 
+final
+   - this will prompt you to add short message about changes

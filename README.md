@@ -19,3 +19,6 @@ single line
 - lol I am learning soooo much yayaayayay
 - use git branch `MY_BRANCH_NAME` to create a new branch
 ` use `git checkout MY_BRANCH_NAME` to move head 
+
+
+- hello i have edited it bc i messed up the first time

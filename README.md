@@ -18,8 +18,9 @@ single line
 - It was the 1st of June, it was the 1975
 - lol I am learning soooo much yayaayayay
 - use git branch `MY_BRANCH_NAME` to create a new branch
-` use `git checkout MY_BRANCH_NAME` to move head 
-
+` use `git checkout MY_BRANCH_NAME` to move head
 
 - made a new branch named branch_2
 - made a change in master branch
+- a merge conflict happens when you edit in the same location 
+- an automerge happens when you edit a file in different locations 
